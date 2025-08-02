@@ -4,7 +4,7 @@
 
 ## 🚀 Projektbeschreibung
 
-Dieses Projekt führt eine logistische Regression auf dem Werbedatensatz durch.  
+Dieses Projekt führt eine recommender-systems auf dem Werbedatensatz durch.  
 Das Ziel ist, vorherzusagen, ob ein Nutzer auf eine Anzeige klickt oder nicht.
 
 ### 🔧 Ausführen
