@@ -1,6 +1,6 @@
 # recommender-systems
 
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jam-Reut/ml-nlp-text-analysis/HEAD?labpath=recommender-systems.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jam-Reut/ml-recommender-systems/HEAD?labpath=recommender-systems.ipynb)
 
 ## 🚀 Projektbeschreibung
 
