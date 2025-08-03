@@ -10,13 +10,12 @@ Ein zusätzliches Notebook mit einer fortgeschritteneren Version steht ebenfalls
 
 ## Projektstruktur
 recommender-systems/
-
-├── recommender-systems.ipynb # Haupt-Notebook mit Basis-Modell
-├── data/
-│ ├── u.data # Nutzungsdaten (User-Ratings)
-│ ├── u.item # Filminformationen
-│ └── movie_id_titles # Zuordnung Film-ID zu Filmtiteln
-├── README.md
+- recommender-systems.ipynb # Haupt-Notebook mit Basis-Modell
+- data:
+	- u.data # Nutzungsdaten (User-Ratings)
+	- u.item # Filminformationen
+	- movie_id_titles # Zuordnung Film-ID zu Filmtiteln
+- README.md
 
 
 ### 🔧 Ausführen
