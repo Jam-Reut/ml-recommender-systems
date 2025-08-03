@@ -10,9 +10,8 @@ Ein zusätzliches Notebook mit einer fortgeschritteneren Version steht ebenfalls
 
 ## Projektstruktur
 recommender-systems/
-│
+
 ├── recommender-systems.ipynb # Haupt-Notebook mit Basis-Modell
-│
 ├── data/
 │ ├── u.data # Nutzungsdaten (User-Ratings)
 │ ├── u.item # Filminformationen
