@@ -18,7 +18,7 @@ recommender-systems/
 - README.md
 
 
-### 🔧 Ausführen
+## 🔧 Ausführen
 
 1. Klicke auf den **Binder-Button oben**, um das Projekt interaktiv im Browser auszuführen.
 2. Öffne das Notebook `recommender-systems.ipynb` oder `
